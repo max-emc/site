@@ -1,32 +1,31 @@
-# Miron Lerner → completer pour les resistants actions, recompense...)
+# Miron Lerner → completer pour les resistants actions, recompense...) + photos
 nom: Miron Lerner
 resistants:
   - Monseigneur André Bouquin
   - Le Cardinal Eugène Tisserant
   - Le diplomate François de Vial
-presentation:
-  - Miron Lerner est né le 26 novembre 1927 à Paris de parents Juifs originaires d'Odessa.
-  - Adolescent, il arrive à Rôme après avoir tenté de fuire plusieurs fois en zone libre.
-  - Se retouvant sans abri, il trouve refuge chez un prêtre puis chez le cardinal Tisserant,
-  - le directeur de la congrégation de l'Église orientale, qui assura sa sécurité.
+presentation: |
+  Miron Lerner est né le 26 novembre 1927 à Paris de parents Juifs originaires d'Odessa.
+  Adolescent, il arrive à Rôme après avoir tenté de fuire plusieurs fois en zone libre.
+  Se retouvant sans abri, il trouve refuge chez un prêtre puis chez le cardinal Tisserant,
+  le directeur de la congrégation de l'Église orientale, qui assura sa sécurité.
 histoire:
-  - paragraphe1:
-    - En 1943, Miron Lerner échappe de justesse à l'arrestation grâce à une alerte de dénonciation iminente.
-    - Se retouvant sans abri, il trouve refuge chezun prêtre puis chez le cardinal Tisserant, le directeur de la congrégation de l'Église orientale qui assura sa sécurité.
-    - Il fut ensuite confié au diplomate fançais au Vatican Françaois de Vial qui le cacha pendant plusieurs nuits.
-    - Le cardinal emmena secrétement Miron Lerner dans un couvent au Vatican en le cachant au fond sa voiture, riquant sa vie face aux Allemands à la frontière de Rome.
-  - paragraphe2:
-    - En début 1944, la situation devient trop risquée au Vatican.
-    - Miron Lerner est alors envoyé au couvent de l'église Saint-Louis-des-François, au cœur de Rome.
-    - Il y reste sous la protection de Mgr André Bouquin jusqu'à la fin de l'été 1944, après la libérartion de la ville.
-temoignage:
-  - introduction:
-    - En 1998, Miron Lerner témoigne par écrit comment la cardinal Tisserant lui a sauvé la vie ansi que celle de nombreux autres juifs.
-  - temoignage:
-    - Ce que je peux vous affirmer, c’est qu’il y avait dans les couvents de Rome pas mal de juifs cachés par le cardinal Tisserant.
+  - paragraphe1: >
+    En 1943, Miron Lerner échappe de justesse à l'arrestation grâce à une alerte de dénonciation iminente.
+    Se retouvant sans abri, il trouve refuge chezun prêtre puis chez le cardinal Tisserant, le directeur de la congrégation de l'Église orientale qui assura sa sécurité.
+    Il fut ensuite confié au diplomate fançais au Vatican Françaois de Vial qui le cacha pendant plusieurs nuits.
+    Le cardinal emmena secrétement Miron Lerner dans un couvent au Vatican en le cachant au fond sa voiture, riquant sa vie face aux Allemands à la frontière de Rome.
+  - paragraphe2: >
+    En début 1944, la situation devient trop risquée au Vatican.
+    Miron Lerner est alors envoyé au couvent de l'église Saint-Louis-des-François, au cœur de Rome.
+    Il y reste sous la protection de Mgr André Bouquin jusqu'à la fin de l'été 1944, après la libérartion de la ville.
 decorations: completer avec les décorations/titres.. recus (à vérifier sur autres sources)
-source:
-  - https://www.famillechretienne.fr/37202/article/deux-religieux-et-un-diplomate-francais-distingues-pour-avoir-cache-des-juifs
+temoignage:
+  - temoignage: >
+    Ce que je peux vous affirmer, c’est qu’il y avait dans les couvents de Rome pas mal de juifs cachés par le cardinal Tisserant.
+  - source:
+    - En 1998, Miron Lerner témoigne par écrit comment la cardinal Tisserant lui a sauvé la vie ansi que celle de nombreux autres juifs.
+source: https://www.famillechretienne.fr/37202/article/deux-religieux-et-un-diplomate-francais-distingues-pour-avoir-cache-des-juifs
 
 ---
 
@@ -36,8 +35,9 @@ resistants:
   - Famille Pasquet
   - Famille Bouquey
 presentation:
-  - La famille Wawer, composé de Perla, ses deux fils Louis et Jacques et de sa fille Hélène,
-  - décide de fuire Paris à cause de la répression nazie.
+  - Perla Wawer vit à Paris avec ses deux fils Louis et Jacques et sa fille Hélène.
+  - Elle décide de fuire Paris à cause de la répression nazie.
+  - → crechercher + d info et completer
 histoire:
   - paragraphe1:
     - Après la rafle du Vel' d'Hiv le 16 juillet 1942, Perla Wewer confie Louis et Jacques à des religieuse.
@@ -57,15 +57,15 @@ histoire:
     - Depuis, on ne s'est jamais quitté, la famille Wawer est venue à mon mariage et à tous nos évènements familiaux"
   - paragraphe4:
     - Le samedi 10 septembre 2022, Jacques et Louis Wawer se sont rendus à Barenton à l'occasion du 78e anniversaire de la libération du village.
-temoignage:
+decoration:
+  - En juillet 1992, Gérard et Louise Bouquey ont reçu le titre de Juste parmi les nations.
+  - le dimanche 11 septembre 2022, Louis, Jacques et Hélène dévoilent une plaque commémorative. 
+  temoignage:
   - temoignage:
     - À la fin du deuxième jour, lorsqu’enfin nous sortons de cette tranchée, c’est sous le regard de soldats américains qui semblent venir de la lune.
     - Pour nous, c’est une véritable renaissance, nous pouvons goûter à cette liberté retrouvée.
   - source:
     - Jacques Wawer
-decoration:
-  - En juillet 1992, Gérard et Louise Bouquey ont reçu le titre de Juste parmi les nations.
-  - le dimanche 11 septembre 2022, Louis, Jacques et Hélène dévoilent une plaque commémorative. 
 source:
   - https://www.ouest-france.fr/normandie/barenton-50720/des-enfants-juifs-caches-a-barenton-pendant-la-seconde-guerre-mondiale-reviennent-80-ans-apres-1573f2bc-3323-11ed-bc2c-5cc23df4e655
   - https://france3-regions.francetvinfo.fr/normandie/manche/avranches/emotion-des-enfants-juifs-caches-pendant-la-guerre-retrouvent-le-village-normand-qui-les-a-sauves-il-y-a-80-ans-2610880.html
@@ -78,10 +78,10 @@ presentation: presentation
 histoire: 
   - paragraphe1: paragraphe1
   - paragraphe2: paragraphe2
+decoration: decoration
 temoignage:
   - introduction: introduction
   - temoignage: temoignage
-decoration: decoration
 source: source
 
 ---
