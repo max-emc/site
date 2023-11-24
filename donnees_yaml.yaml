@@ -19,7 +19,7 @@ histoire:
       Début 1944, la situation devient trop risquée au Vatican.
       Miron Lerner est alors envoyé au couvent de l'église Saint-Louis-des-Français, au cœur de Rome.
       Il y reste sous la protection de Mgr André Bouquin jusqu'à la fin de l'été 1944, après la libération de la ville.
-decorations: # À compléter avec les décorations/titres reçus (à vérifier sur d'autres sources)
+decorations: decorations # À compléter avec les décorations/titres reçus (à vérifier sur d'autres sources)
 temoignage:
   - temoignage: |
       Ce que je peux vous affirme
