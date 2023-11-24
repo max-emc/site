@@ -1,4 +1,4 @@
-# Miron Lerner → completer pour les resistants actions, recompense...) + photos
+# Miron Lerner → compléter pour les résistants actions, récompense...) + photos
 nom: Miron Lerner
 resistants:
   - Monseigneur André Bouquin
@@ -6,27 +6,23 @@ resistants:
   - Le diplomate François de Vial
 presentation: |
   Miron Lerner est né le 26 novembre 1927 à Paris de parents Juifs originaires d'Odessa.
-  Adolescent, il arrive à Rôme après avoir tenté de fuire plusieurs fois en zone libre.
-  Se retouvant sans abri, il trouve refuge chez un prêtre puis chez le cardinal Tisserant,
-  le directeur de la congrégation de l'Église orientale, qui assura sa sécurité.
+  Adolescent, il arrive à Rome après avoir tenté de fuir plusieurs fois en zone libre.
+  Se retrouvant sans abri, il trouve refuge chez un prêtre puis chez le cardinal Tisserant,
+  le directeur de la congrégation de l'Église orientale, qui assure sa sécurité.
 histoire:
   - paragraphe1: |
-    En 1943, Miron Lerner échappe de justesse à l'arrestation grâce à une alerte de dénonciation iminente.
-    Se retouvant sans abri, il trouve refuge chezun prêtre puis chez le cardinal Tisserant, le directeur de la congrégation de l'Église orientale qui assura sa sécurité.
-    Il fut ensuite confié au diplomate fançais au Vatican Françaois de Vial qui le cacha pendant plusieurs nuits.
-    Le cardinal emmena secrétement Miron Lerner dans un couvent au Vatican en le cachant au fond sa voiture, riquant sa vie face aux Allemands à la frontière de Rome.
+      En 1943, Miron Lerner échappe de justesse à l'arrestation grâce à une alerte de dénonciation imminente.
+      Se retrouvant sans abri, il trouve refuge chez un prêtre puis chez le cardinal Tisserant, le directeur de la congrégation de l'Église orientale qui assure sa sécurité.
+      Il est ensuite confié au diplomate français au Vatican, François de Vial, qui le cache pendant plusieurs nuits.
+      Le cardinal emmène secrètement Miron Lerner dans un couvent au Vatican en le cachant au fond de sa voiture, risquant sa vie face aux Allemands à la frontière de Rome.
   - paragraphe2: |
-    En début 1944, la situation devient trop risquée au Vatican.
-    Miron Lerner est alors envoyé au couvent de l'église Saint-Louis-des-François, au cœur de Rome.
-    Il y reste sous la protection de Mgr André Bouquin jusqu'à la fin de l'été 1944, après la libérartion de la ville.
-decorations: completer avec les décorations/titres.. recus (à vérifier sur autres sources)
+      Début 1944, la situation devient trop risquée au Vatican.
+      Miron Lerner est alors envoyé au couvent de l'église Saint-Louis-des-Français, au cœur de Rome.
+      Il y reste sous la protection de Mgr André Bouquin jusqu'à la fin de l'été 1944, après la libération de la ville.
+decorations: # À compléter avec les décorations/titres reçus (à vérifier sur d'autres sources)
 temoignage:
   - temoignage: |
-    Ce que je peux vous affirmer, c’est qu’il y avait dans les couvents de Rome pas mal de juifs cachés par le cardinal Tisserant.
-  - source:
-    - En 1998, Miron Lerner témoigne par écrit comment la cardinal Tisserant lui a sauvé la vie ansi que celle de nombreux autres juifs.
-source: https://www.famillechretienne.fr/37202/article/deux-religieux-et-un-diplomate-francais-distingues-pour-avoir-cache-des-juifs
-
+      Ce que je peux vous affirme
 ---
 
 # Rachel Brafman
@@ -34,33 +30,31 @@ nom: Famille Wewer
 resistants:
   - Famille Pasquet
   - Famille Bouquey
-presentation:
-  - Perla Wawer vit à Paris avec ses deux fils Louis et Jacques et sa fille Hélène.
-  - Elle décide de fuire Paris à cause de la répression nazie.
-  - → crechercher + d info et completer
+presentation: |
+  Perla Wawer vit à Paris avec ses deux fils Louis et Jacques et sa fille Hélène.
+  Elle décide de fuire Paris à cause de la répression nazie.
+  → crechercher + d info et completer
 histoire:
-  - paragraphe1:
-    - Après la rafle du Vel' d'Hiv le 16 juillet 1942, Perla Wewer confie Louis et Jacques à des religieuse.
-    - Il seront alors acceuillit par la famille Pasquet dans la ferme la Touchardière en Normandie.
-    - Perla parvient à rejoindre Barenton avec sa fille Hélène.
-    - Comme la ferme est trop petite pour tous les abriter, la famille Bouquey se propose.
-    - Tout le monde dans le monde dans le vilage, même les amis des enfants, savait qu'il étaient Juifs.
-    - Cependant, l'ensemble du village les protégea.
-    - Perla Wawer se lia même d'amitié avec Louise Bouquey et la boumangère Mme Gasté.
-  - paragraphe2:
-      - Mais la situation devient encore plus dangereuse lorsque les Allemands occupe le rez-de-chaussée de la maison voisine.
-      - Les autorités exigent alors que tous les habitants se déclarent en Marie.
-      - Heureusement, le responsable des gendarmes, membre de la résistance, ferme les yeux
-  - paragraphe3:
-    - Après la libération les Wawer retourne à Paris, mais ils ne couperont pas les ponts avec les deux familles.
-    - Monique, une des filles des Bouquey, a dit "Jacques et Louis étaient tellement en fusion avec mes parents, qu'on formait une seule famille
-    - Depuis, on ne s'est jamais quitté, la famille Wawer est venue à mon mariage et à tous nos évènements familiaux"
-  - paragraphe4:
-    - Le samedi 10 septembre 2022, Jacques et Louis Wawer se sont rendus à Barenton à l'occasion du 78e anniversaire de la libération du village.
-decoration:
-  - En juillet 1992, Gérard et Louise Bouquey ont reçu le titre de Juste parmi les nations.
-  - le dimanche 11 septembre 2022, Louis, Jacques et Hélène dévoilent une plaque commémorative. 
-  temoignage:
+  - paragraphe1: |
+      Après la rafle du Vel' d'Hiv le 16 juillet 1942, Perla Wewer confie Louis et Jacques à des religieuse.
+      Il seront alors acceuillit par la famille Pasquet dans la ferme la Touchardière en Normandie.
+      Perla parvient à rejoindre Barenton avec sa fille Hélène.
+      Comme la ferme est trop petite pour tous les abriter, la famille Bouquey se propose.
+      Tout le monde dans le monde dans le vilage, même les amis des enfants, savait qu'il étaient Juifs.
+      Cependant, l'ensemble du village les protégea.
+      Perla Wawer se lia même d'amitié avec Louise Bouquey et la boumangère Mme Gasté.
+  - paragraphe2: |
+      Mais la situation devient encore plus dangereuse lorsque les Allemands occupe le rez-de-chaussée de la maison voisine.
+      Les autorités exigent alors que tous les habitants se déclarent en Marie.
+      Heureusement, le responsable des gendarmes, membre de la résistance, ferme les yeux
+  - paragraphe3: |
+      Après la libération les Wawer retourne à Paris, mais ils ne couperont pas les ponts avec les deux familles.
+      Monique, une des filles des Bouquey, a dit "Jacques et Louis étaient tellement en fusion avec mes parents, qu'on formait une seule famille
+      Depuis, on ne s'est jamais quitté, la famille Wawer est venue à mon mariage et à tous nos évènements familiaux"
+  - paragraphe4: |
+      Le samedi 10 septembre 2022, Jacques et Louis Wawer se sont rendus à Barenton à l'occasion du 78e anniversaire de la libération du village.
+decoration: En juillet 1992, Gérard et Louise Bouquey ont reçu le titre de Juste parmi les nations.
+temoignage:
   - temoignage:
     - À la fin du deuxième jour, lorsqu’enfin nous sortons de cette tranchée, c’est sous le regard de soldats américains qui semblent venir de la lune.
     - Pour nous, c’est une véritable renaissance, nous pouvons goûter à cette liberté retrouvée.
@@ -83,43 +77,3 @@ temoignage:
   - introduction: introduction
   - temoignage: temoignage
 source: source
-
----
-
-# nom: 
-# resistants:
-# presentation:
-# histoire:
-#   - paragraphe1:
-#   - paragraphe2:
-# temoignage:
-#   - introduction:
-#   - temoignage:
-# decoration
-# source:
-
-# Inclure des images dans le texte
-
-# https://www.nicematin.com/histoire/on-avait-peur-mais-on-ne-disait-rien-cachees-avec-une-centaine-de-juifs-pendant-la-seconde-guerre-mondiale-elles-temoignent-727325
-# https://fr.wikipedia.org/wiki/Enfant_cach%C3%A9
-# https://www.fondationshoah.org/memoire/comme-un-oiseau-sur-la-branche-rachel-brafman
-# https://www.fondationshoah.org/memoire/collection/temoignages-d-enfants-caches?
-    # Génia Klukowski
-    # Albert Lamantowicz
-    # Rosenberg
-    # Irena Milewska
-    # Samuel Levi
-    # François Szulman
-    # Elgrably
-    # Jean Henrion
-    # Fanny et David Sauleman
-    # Otto Fischl
-    # Pierre Auer Bacher
-    # André Bernstein
-    # Simon Grunwald
-    # Lilian et Réjane Mossé
-    # Éliezer Lewinsohn
-    # Krol
-    # François Lecomte
-    # Mireille Boccara
-    # Salomon Malmed
