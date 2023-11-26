@@ -104,7 +104,7 @@ nom: Famille Wewer
 resistants:
   - Famille Pasquet
   - Famille Bouquey
-presentation: >
+introduction: >
     Perla Wawer vit à Paris avec ses deux fils Louis et Jacques et sa fille Hélène.
     Elle décide de fuire Paris à cause de la répression nazie.
   # à completer (données perdues)
@@ -140,3 +140,11 @@ source:
   - source2:
     lien: "https://france3-regions.francetvinfo.fr/normandie/manche/avranches/emotion-des-enfants-juifs-caches-pendant-la-guerre-retrouvent-le-village-normand-qui-les-a-sauves-il-y-a-80-ans-2610880.html"
     site: France 3
+
+
+---
+
+# sources supplémentaires:
+source_supp1 :
+  lien: "https://encyclopedia.ushmm.org/content/fr/article/rescue"
+  description: Shoah, comment les nazis ont procédés, gettho à Cracovie
