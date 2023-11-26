@@ -144,7 +144,10 @@ source:
 
 ---
 
-# sources supplémentaires:
+# sources supplémentaires pour le reste du site:
 source_supp1 :
   lien: "https://encyclopedia.ushmm.org/content/fr/article/rescue"
-  description: Shoah, comment les nazis ont procédés, gettho à Cracovie
+  description: Shoah, comment les nazis ont procédés, gettho à Cracovie ...
+source_supp2:
+  lien: "https://www.cairn.info/revue-les-cahiers-de-la-shoah-2007-1-page-181.htm#:~:text=Au%20sens%20litt%C3%A9ral%20du%20terme%2C%20sont%20cach%C3%A9s%20les,le%20fait%20des%20parents%20eux-m%C3%AAmes%20ou%20d%E2%80%99organisations%20d%E2%80%99entraide."
+  description: association d'enfants cachés, définition enfants cachés, témoignages...
