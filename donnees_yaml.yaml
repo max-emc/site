@@ -97,3 +97,46 @@ histoire:
       Miron Lerner est alors envoyé au couvent de l'église Saint-Louis-des-Français, au cœur de Rome.
       Il y reste sous la protection de Mgr André Bouquin jusqu'à la fin de l'été 1944, après la libération de la ville.
 # completer avec les décorations reçus et les sources (données perdues pendant la première mise en ligne du fichier)
+
+---
+
+nom: Famille Wewer
+resistants:
+  - Famille Pasquet
+  - Famille Bouquey
+presentation: >
+    Perla Wawer vit à Paris avec ses deux fils Louis et Jacques et sa fille Hélène.
+    Elle décide de fuire Paris à cause de la répression nazie.
+  # à completer (données perdues)
+histoire:
+  - paragraphe1: >
+      Après la rafle du Vel' d'Hiv le 16 juillet 1942, Perla Wewer confie Louis et Jacques à des religieuse.
+      Il seront alors acceuillit par la famille Pasquet dans la ferme la Touchardière en Normandie.
+      Perla parvient à rejoindre Barenton avec sa fille Hélène.
+      Comme la ferme est trop petite pour tous les abriter, la famille Bouquey se propose.
+      Tout le monde dans le monde dans le vilage, même les amis des enfants, savait qu'il étaient Juifs.
+      Cependant, l'ensemble du village les protégea.
+      Perla Wawer se lia même d'amitié avec Louise Bouquey et la boumangère Mme Gasté.
+  - paragraphe2: >
+      Mais la situation devient encore plus dangereuse lorsque les Allemands occupe le rez-de-chaussée de la maison voisine.
+      Les autorités exigent alors que tous les habitants se déclarent en Marie.
+      Heureusement, le responsable des gendarmes, membre de la résistance, ferme les yeux
+  - paragraphe3: <
+      Après la libération les Wawer retourne à Paris, mais ils ne couperont pas les ponts avec les deux familles.
+      Monique, une des filles des Bouquey, a dit "Jacques et Louis étaient tellement en fusion avec mes parents, qu'on formait une seule famille
+      Depuis, on ne s'est jamais quitté, la famille Wawer est venue à mon mariage et à tous nos évènements familiaux"
+      Le samedi 10 septembre 2022, Jacques et Louis Wawer se sont rendus à Barenton à l'occasion du 78e anniversaire de la libération du village.      
+decoration: En juillet 1992, Gérard et Louise Bouquey ont reçu le titre de Juste parmi les nations.
+temoignage:
+  - temoignage: >
+      À la fin du deuxième jour, lorsqu’enfin nous sortons de cette tranchée, c’est sous le regard de soldats américains qui semblent venir de la lune.
+      Pour nous, c’est une véritable renaissance, nous pouvons goûter à cette liberté retrouvée.
+  - source:
+    - Jacques Wawer
+source:
+  - source1:
+    lien: "https://www.ouest-france.fr/normandie/barenton-50720/des-enfants-juifs-caches-a-barenton-pendant-la-seconde-guerre-mondiale-reviennent-80-ans-apres-1573f2bc-3323-11ed-bc2c-5cc23df4e655"
+    site: ouest france
+  - source2:
+    lien: "https://france3-regions.francetvinfo.fr/normandie/manche/avranches/emotion-des-enfants-juifs-caches-pendant-la-guerre-retrouvent-le-village-normand-qui-les-a-sauves-il-y-a-80-ans-2610880.html"
+    site: France 3
